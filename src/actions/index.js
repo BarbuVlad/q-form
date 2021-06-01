@@ -76,3 +76,11 @@ export const editQuestionFromTest = (element) => {
         payload: element
     }
 }
+
+/* -------------------------User id actions------------------------- */
+export const setUserId = (id) => {
+    return{
+        type: 'SET_USER_ID',
+        payload: id
+    }
+}

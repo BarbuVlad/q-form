@@ -1,6 +1,5 @@
 import { Typography} from "@material-ui/core";
 import {} from "@material-ui/icons";
-import QuestionAnswerIcon from '@material-ui/icons/QuestionAnswer';
 // <QuestionAnswerIcon />
 import useStyles from './styles';
 

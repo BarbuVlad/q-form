@@ -11,7 +11,9 @@ Material UI is using this CSS in JS syntax
  */
 const useStyles = makeStyles((theme)=>({
     root: {
-        flexGrow: 1,
+        display:"grid",
+        placeItems:"center",
+        marginTop:100
        // backgroundColor:"green"
       },
 
